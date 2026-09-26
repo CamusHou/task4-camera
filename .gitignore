@@ -1,0 +1,5 @@
+build/
+camera_app
+MvSdkLog
+*.o
+*.log
